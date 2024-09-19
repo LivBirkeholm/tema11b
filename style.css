@@ -52,9 +52,6 @@ p {
   line-height: 30px;
 }
 
-.grid_1 {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  padding-bottom: 50px;
-  gap: 30px;
+img {
+  padding-top: 70px;
 }
