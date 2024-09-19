@@ -26,12 +26,30 @@ footer {
   text-align: center;
   padding-top: 50px;
   padding-bottom: 50px;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: rgb(90, 62, 38);
 }
 
 h1 {
   padding-top: 50px;
   padding-bottom: 50px;
   text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  text-transform: uppercase;
+  color: rgb(90, 62, 38);
+}
+
+p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  line-height: 30px;
 }
 
 .grid_1 {
